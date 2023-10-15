@@ -1,1 +1,1 @@
-![Power Pi Project Screenshot](JI_FINANACIAL_REPORT.png)
+![Power Pi Project Screenshot](J1_FINANACIAL_REPORT.png)
